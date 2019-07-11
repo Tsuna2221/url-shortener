@@ -1,0 +1,1 @@
+db = "mongodb+srv://tsuna2221:yuio9012@shortenercluster-qre6e.mongodb.net/shortener?retryWrites=true&w=majority"
